@@ -1,0 +1,7 @@
+
+<html>
+
+<frameset cols="17% ,*">
+	<frame src="nestedjson.html"  noresize>
+	<frame name="fr1">
+</frameset></html>
