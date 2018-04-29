@@ -1,7 +1,7 @@
 
 <!Doctype html>
 <html>
-	<title>Encapsulaters pvt Ltd&reg;
+	<title>Edu_right&reg;
 	</title>
 	<link type="text/css" rel="stylesheet" href="login.css">	
 	<head><meta charset="utf-8"/>
